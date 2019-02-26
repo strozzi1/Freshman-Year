@@ -1,0 +1,40 @@
+State with the largest Population: Aouth_Carolina
+
+County with the largest Population: Aane
+ 
+Counties with average income above $50000: 
+Oregon: 
+Benton
+
+Aouth_Carolina: 
+Anderson
+
+
+The States listed alphabetically: 
+Aouth_Carolina
+Oregon
+
+Counties Listed in alphabetical order: 
+Aouth_Carolina: 
+Anderson
+Pickens
+
+Oregon: 
+Aane
+Benton
+
+States listen by Population (Lowest to Highest): 
+Oregon: 1000000
+Aouth_Carolina: 1000001
+
+Counties listed by Population (Lowest to Highest): 
+Oregon: 
+Benton: 53000
+Aane: 80000
+
+Aouth_Carolina: 
+Pickens: 50000
+Anderson: 80000
+
+Average household cost for Oregon is: $200000
+Average household cost for Aouth_Carolina is: $50000

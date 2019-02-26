@@ -1,0 +1,40 @@
+State with the largest Population: South_Carolina
+
+County with the largest Population: Lane
+ 
+Counties with average income above $60000: 
+Oregon: 
+Benton
+
+South_Carolina: 
+Anderson
+
+
+The States listed alphabetically: 
+Oregon
+South_Carolina
+
+Counties Listed in alphabetical order: 
+Oregon: 
+Benton
+Lane
+
+South_Carolina: 
+Anderson
+Pickens
+
+States listen by Population (Lowest to Highest): 
+Oregon: 1000000
+South_Carolina: 1000001
+
+Counties listed by Population (Lowest to Highest): 
+Oregon: 
+Benton: 53000
+Lane: 80000
+
+South_Carolina: 
+Pickens: 50000
+Anderson: 80000
+
+Average household cost for Oregon is: $200000
+Average household cost for South_Carolina is: $50000
